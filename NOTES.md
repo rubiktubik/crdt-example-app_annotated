@@ -441,7 +441,7 @@ The `merkle.js:insertKey()` function implements the "insert" operation. Here's a
  0: h(A)
 ```
 
-2. Both clients record a message timestamp: { time: '101', hash: B }
+2. Both clients record a message timestamp: { time: '010', hash: B }
 
 ```
         root: h(A,B)
